@@ -1,0 +1,109 @@
+1.3 Aspectos matemáticos de la graficación por computadora
+
+La graficación por computadora se basa principalmente en principios matemáticos que permiten representar objetos, transformarlos y proyectarlos en una pantalla. Sin las matemáticas, no sería posible crear imágenes digitales precisas ni realistas.
+
+Las áreas matemáticas más importantes en la graficación son la geometría, el álgebra lineal y el cálculo.
+
+1. Geometría
+
+La geometría permite describir la forma, tamaño y posición de los objetos.
+
+🔹 Sistemas de coordenadas
+
+En gráficos se utilizan sistemas de coordenadas para ubicar puntos en el espacio:
+
+2D: (x, y)
+
+3D: (x, y, z)
+
+En 2D se trabajan figuras planas como líneas y polígonos.
+En 3D se representan objetos con profundidad, como cubos o esferas.
+
+🔹 Transformaciones geométricas
+
+Las transformaciones permiten modificar los objetos:
+
+Traslación: mover un objeto de un lugar a otro.
+
+Rotación: girar un objeto respecto a un punto o eje.
+
+Escalamiento: cambiar el tamaño del objeto.
+
+Reflexión: invertir la figura respecto a un eje.
+
+Estas transformaciones se aplican mediante operaciones matemáticas.
+
+ 2. Álgebra lineal
+
+El álgebra lineal es fundamental en gráficos por computadora porque permite trabajar con:
+
+Vectores: representan dirección y magnitud.
+
+Matrices: se usan para realizar transformaciones.
+
+Por ejemplo, para rotar un objeto en el plano se utiliza una matriz de rotación.
+Las matrices permiten realizar múltiples transformaciones de manera eficiente.
+
+En gráficos 3D, el uso de matrices es esencial para:
+
+Proyecciones
+
+Movimiento de cámara
+
+Iluminación
+
+Animaciones
+
+ 3. Cálculo y funciones matemáticas
+
+El cálculo permite representar curvas y superficies suaves.
+
+🔹 Curvas
+
+Se utilizan ecuaciones para representar:
+
+Circunferencias
+
+Parábolas
+
+Curvas Bézier
+
+Splines
+
+Estas curvas son muy usadas en diseño y animación para crear movimientos suaves.
+
+🔹 Superficies
+
+En modelado 3D se utilizan funciones matemáticas para generar superficies complejas como:
+
+Esferas
+
+Cilindros
+
+Superficies paramétricas
+
+Esto permite crear objetos más realistas.
+
+ 4. Geometría analítica
+
+Se emplea para determinar:
+
+Intersección entre líneas
+
+Colisiones entre objetos
+
+Distancias entre puntos
+
+Cálculo de pendientes
+
+Esto es muy importante en videojuegos y simulaciones físicas.
+
+ 5. Proyecciones
+
+En gráficos 3D se necesita convertir objetos tridimensionales en imágenes 2D para mostrarlos en la pantalla. Esto se logra mediante:
+
+Proyección ortogonal
+
+Proyección en perspectiva
+
+La proyección en perspectiva permite que los objetos lejanos se vean más pequeños, generando profundidad.
